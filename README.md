@@ -9,7 +9,7 @@
 
 <br>
 
-![Power BI](https://img.shields.io/badge/Power_BI-D<img width="1532" height="857" alt="Dashboard" src="https://github.com/user-attachments/assets/27f77aee-94c6-4ef1-831f-ccd63f00e6f4" />
+ width="1532" height="857" alt="Dashboard" src="https://github.com/user-attachments/assets/27f77aee-94c6-4ef1-831f-ccd63f00e6f4" />
 ashboard-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Data_Modeling-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
